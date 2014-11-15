@@ -12,6 +12,8 @@ ocaml-seamcarving
 ```
 rgb4 ou rgb8 ou lum4 ou lum8 suivant que l'on veuille utiliser une distance rgb ou lumineuse, avec 4 ou 8 voisins.
 
+# Information
+
 Avant de lancer l'animation, on peut dessiner :
 -en vert pour conserver les pixels
 -en rouge pour supprimer les pixels
@@ -26,3 +28,5 @@ Pour sauvegarder l'image, appuyer sur la touche 's'.
 =================
 
 L2 Programmation Fonctionelle - Paris Diderot 2012
+
+Licence MIT
